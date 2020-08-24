@@ -36,6 +36,7 @@ div:hover{
 }
 .nowhereButton {
   border-radius: 20px;
+  text-align: center;
 }
 img {
     width: 450px;

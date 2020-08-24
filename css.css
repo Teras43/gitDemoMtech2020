@@ -21,6 +21,7 @@ p {
   text-align: center;
   font-size: 8em;
   border: 2px #333333;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 div {
     padding-top: 75px;
@@ -32,6 +33,9 @@ div {
 }
 div:hover{
     background-color: #303030;
+}
+.nowhereButton {
+  border-radius: 20px;
 }
 img {
     width: 450px;
